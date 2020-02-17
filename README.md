@@ -1,4 +1,3 @@
-#30daysOfJavaScriptChallenge
+#30DaysOfCode
 
-This is a javascript code challenge that builds a project daily.
-
+This is a code challenge that builds a project daily.
